@@ -1,0 +1,27 @@
+body{
+    background: url("../image/008707505f84474204a45396e610025c.jpg");
+    
+      
+}
+form {
+    display: table;
+    margin: 0 auto;
+  }
+  
+  form div {
+    display: table-row;
+  }
+  
+  form label, form input {
+    display: table-cell;
+    margin-bottom: 10px;
+  }
+  form label {
+    width: 200px;
+    padding-right: 5%;
+    text-align: right;
+  }
+  
+  form input {
+    width: 300px;
+  }  
